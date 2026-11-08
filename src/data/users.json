@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "gender": "male",
+    "name": { "first": "Богдан", "last": "Коваленко" },
+    "location": { "city": "Київ", "country": "Україна" },
+    "email": "bohdan.k@example.com",
+    "phone": "+380501112233",
+    "picture": "/users/user1.jpg",
+    "dob": { "date": "2008-05-14", "age": 16 },
+    "hobbies": ["Відеоігри", "Плавання", "Робототехніка"],
+    "details": "Студент коледжу, цікавиться веброзробкою та дронами."
+  },
+  {
+    "id": 2,
+    "gender": "female",
+    "name": { "first": "Олена", "last": "Шевченко" },
+    "location": { "city": "Львів", "country": "Україна" },
+    "email": "olena.sh@example.com",
+    "phone": "+380672223344",
+    "picture": "/users/user2.jpg",
+    "dob": { "date": "2001-08-22", "age": 23 },
+    "hobbies": ["Фотографія", "Подорожі", "UI/UX дизайн"],
+    "details": "Початківець у сфері дизайну інтерфейсів."
+  },
+  {
+    "id": 3,
+    "gender": "male",
+    "name": { "first": "Тарас", "last": "Мельник" },
+    "location": { "city": "Одеса", "country": "Україна" },
+    "email": "taras.m@example.com",
+    "phone": "+380633334455",
+    "picture": "/users/user3.jpg",
+    "dob": { "date": "1988-11-03", "age": 36 },
+    "hobbies": ["Вітрильний спорт", "Кулінарія"],
+    "details": "Менеджер проєктів у сфері логістики."
+  },
+  {
+    "id": 4,
+    "gender": "female",
+    "name": { "first": "Наталія", "last": "Бондар" },
+    "location": { "city": "Харків", "country": "Україна" },
+    "email": "natalia.b@example.com",
+    "phone": "+380954445566",
+    "picture": "/users/user4.jpg",
+    "dob": { "date": "1968-03-12", "age": 56 },
+    "hobbies": ["Садівництво", "Живопис", "Йога"],
+    "details": "Викладач вищої математики з 25-річним стажем."
+  },
+  {
+    "id": 5,
+    "gender": "male",
+    "name": { "first": "Андрій", "last": "Ткаченко" },
+    "location": { "city": "Дніпро", "country": "Україна" },
+    "email": "andriy.t@example.com",
+    "phone": "+380975556677",
+    "picture": "/users/user5.jpg",
+    "dob": { "date": "2009-01-30", "age": 15 },
+    "hobbies": ["Футбол", "Скейтбординг"],
+    "details": "Учень старших класів, фанат кіберспорту."
+  },
+  {
+    "id": 6,
+    "gender": "female",
+    "name": { "first": "Ірина", "last": "Кравченко" },
+    "location": { "city": "Вінниця", "country": "Україна" },
+    "email": "iryna.k@example.com",
+    "phone": "+380936667788",
+    "picture": "/users/user6.jpg",
+    "dob": { "date": "1997-12-19", "age": 27 },
+    "hobbies": ["Фітнес", "Книги", "Астрономія"],
+    "details": "Фронтенд-розробниця, вивчає Vue та TypeScript."
+  },
+  {
+    "id": 7,
+    "gender": "male",
+    "name": { "first": "Сергій", "last": "Олійник" },
+    "location": { "city": "Полтава", "country": "Україна" },
+    "email": "serhii.o@example.com",
+    "phone": "+380507778899",
+    "picture": "/users/user7.jpg",
+    "dob": { "date": "1980-07-07", "age": 44 },
+    "hobbies": ["Риболовля", "Деревообробка", "Туризм"],
+    "details": "Інженер-конструктор автоматизованих систем."
+  },
+  {
+    "id": 8,
+    "gender": "female",
+    "name": { "first": "Марія", "last": "Мороз" },
+    "location": { "city": "Чернівці", "country": "Україна" },
+    "email": "maria.m@example.com",
+    "phone": "+380688889900",
+    "picture": "/users/user8.jpg",
+    "dob": { "date": "1962-09-15", "age": 62 },
+    "hobbies": ["В'язання", "Класична музика"],
+    "details": "Архітектор на пенсії, вивчає цифрову ілюстрацію."
+  },
+  {
+    "id": 9,
+    "gender": "male",
+    "name": { "first": "Максим", "last": "Лисенко" },
+    "location": { "city": "Запоріжжя", "country": "Україна" },
+    "email": "maksym.l@example.com",
+    "phone": "+380639990011",
+    "picture": "/users/user9.jpg",
+    "dob": { "date": "2005-04-18", "age": 19 },
+    "hobbies": ["Баскетбол", "Електронна музика"],
+    "details": "Студент першого курсу комп'ютерних наук."
+  },
+  {
+    "id": 10,
+    "gender": "female",
+    "name": { "first": "Юлія", "last": "Григоренко" },
+    "location": { "city": "Івано-Франківськ", "country": "Україна" },
+    "email": "yulia.g@example.com",
+    "phone": "+380961110022",
+    "picture": "/users/user10.jpg",
+    "dob": { "date": "1994-02-28", "age": 30 },
+    "hobbies": ["Гірський туризм", "Йога", "Велоспорт"],
+    "details": "Маркетолог у міжнародній IT-компанії."
+  }
+]
